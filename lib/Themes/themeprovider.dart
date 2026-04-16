@@ -1,4 +1,4 @@
-import 'core.dart';
+import '../core.dart';
 
 class ThemeProvider extends ChangeNotifier {
   bool _isDarkMode = false;

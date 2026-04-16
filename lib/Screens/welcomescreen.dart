@@ -1,5 +1,5 @@
 import '../core.dart';
-import './home_screen.dart';
+import 'home_screen.dart';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({super.key});

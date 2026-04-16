@@ -1,7 +1,8 @@
-export './Pages/budget_screen.dart';
-export './Pages/calculator_screen.dart';
-export './Pages/converter_screen.dart';
-export './Pages/home_screen.dart';
-export './Pages/notes_screen.dart';
-export './Pages/welcomescreen.dart';
-export './Pages/settings.dart';
+export 'Screens/budget_screen.dart';
+export 'Screens/calculator_screen.dart';
+export 'Screens/converter_screen.dart';
+export 'Screens/home_screen.dart';
+export 'Screens/notes_screen.dart';
+export 'Screens/welcomescreen.dart';
+export 'Screens/settings.dart';
+export 'Screens/tasks_screen.dart';

@@ -1,11 +1,10 @@
-import 'core.dart';
+import '../core.dart';
 
 class AppTheme {
   // LIGHT COLORS
   static const Color creamBackground = Color(0xFFFAF3E0); // softer cream
   static const Color whiteSurface = Colors.white;
 
-  // Orange palette (soft, modern, not aggressive tomato)
   static const Color primaryOrange = Color(0xFFFF7A3D);
   static const Color softOrange = Color(0xFFFFB38A);
   static const Color warmAccent = Color(0xFFFFD2B5);

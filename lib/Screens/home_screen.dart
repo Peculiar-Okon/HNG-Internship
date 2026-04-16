@@ -1,5 +1,3 @@
-
-
 import '../core.dart';
 import '../view.dart';
 
@@ -107,6 +105,7 @@ class HomeScreen extends StatelessWidget {
             buildItem(context, 'Notes', Icons.note_alt, const NotesScreen()),
             buildItem(context, 'Calculator', Icons.calculate, const CalculatorScreen()),
             buildItem(context, 'Budget', Icons.account_balance_wallet, const BudgetScreen()),
+            buildItem(context, 'Tasks', Icons.checklist, const TaskScreen()),
           ],
         ),
       ),
