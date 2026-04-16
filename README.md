@@ -1,31 +1,31 @@
-# 🧰 Smart Utility Toolkit App
+# Smart Utility Toolkit App
 
 A multi-functional mobile application built with Flutter that combines essential everyday tools into one seamless experience.
 
 This project was developed as part of the HNG Internship Stage 1 task.
 
-## 🚀 Features
+## Features
 
-### 🔄 Unit Converter
+### Unit Converter
 - Convert between units (e.g., meters to kilometers)
 - Simple and fast input-based conversion
 
-### 📝 Notes
+### Notes
 - Create notes with multi-line input
 - View all notes in a clean list
 - Persistent within session
 
-### 🧮 Calculator
+### Calculator
 - Perform basic arithmetic operations
 - Expression parsing for accurate calculations
 
-### 💰 Budget Tracker
+### Budget Tracker
 - Add expenses with descriptions
 - View total spending
 - Delete expenses
 - Structured expense tracking
 
-### ✅ Task / Checklist Manager
+### Task / Checklist Manager
 - Add new tasks
 - Mark tasks as completed
 - Edit existing tasks
@@ -33,12 +33,12 @@ This project was developed as part of the HNG Internship Stage 1 task.
 - **Persistent local storage using SharedPreferences**
 - Fully functional offline
 
-### 🌗 Theme Support
+### Theme Support
 - Toggle between Light and Dark mode
 - Consistent UI across all screens
 
 
-## 🧠 Architecture & Design
+## Architecture & Design
 
 - Built with **Flutter**
 - State management using **Provider**
@@ -47,14 +47,14 @@ This project was developed as part of the HNG Internship Stage 1 task.
 - Modular screen structure for scalability
 
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Flutter (Dart)
 - Provider (State Management)
 - SharedPreferences (Local Storage)
 
 
-## 📱 Screens Included
+## Screens Included
 
 - Welcome Screen
 - Home Dashboard
